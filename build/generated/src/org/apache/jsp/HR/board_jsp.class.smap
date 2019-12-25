@@ -1,0 +1,12 @@
+SMAP
+board_jsp.java
+JSP
+*S JSP
+*F
++ 0 board.jsp
+HR/board.jsp
+*L
+1,30:46
+31,22:77
+52,19:99
+*E
